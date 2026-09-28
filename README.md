@@ -24,7 +24,7 @@ A [kitty](https://sw.kovidgoyal.net/kitty/) terminal config for macOS: pure blac
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/kitty-black-crimson.git
+git clone https://github.com/unbrokenfounder/kitty-black-crimson.git
 cd kitty-black-crimson
 
 mkdir -p ~/.config/kitty
